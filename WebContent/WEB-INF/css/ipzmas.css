@@ -1,0 +1,76 @@
+@CHARSET "UTF-8";
+#right{
+		position: relative;
+		top:-670px;
+		left: 570px;
+	}
+	#right2{
+		position: relative;
+		top:-766px;
+		left: 585px;
+	}
+	#right5{
+		position: relative;
+		top:-677px;
+		left: 888px;
+	}
+	#right3{
+		position: relative;
+		top:-832px;
+		left: 1158px;
+	}
+		#right4{
+		position: relative;
+		top:-780px;
+		left: 586px;
+	}
+	#botton{
+		position:relative;
+		width:900px;
+		top:-750px;
+		left:570px;
+	}
+	#botton label{
+		margin-left:20px;
+	}
+	#mydialog{
+		line-height:250%;
+		padding-left:20px;
+		padding-top:20px;
+		padding-right:20px;
+	}
+	#btn1{
+		margin-left:150px;
+		margin-right:80px;
+	}
+	tr{
+		margin-left:50px;
+	}
+	#p{
+	   position: relative;
+		top:-40px;
+		left: 726px;
+	}
+ 
+	#chooseBM{
+		position: relative;
+		top:-23px;
+		left:275px;
+	}
+	#chooseCK{
+		position: relative;
+		top:-23px;
+		left:245px;
+	}
+	#p{
+	   position: relative;
+		top:-60px;
+		left: 816px;
+		height:50px;
+		line-height: 50px;		
+		border-radius:17px;
+	}
+#centerPart	input{
+	border:0;
+	border-bottom:1px solid #000;
+}
